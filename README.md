@@ -34,7 +34,7 @@ Operating Systems: Windows, Mac, Linux
 
 ### **Lead Software Engineer**
 ### Capital One India Private Limited
-Role - Lead/Staff Software Engineer (Level - Manager).<br />
+Role - Lead/Staff Software Engineer (Level - Manager IC).<br />
 Responsible for leading fullstack development team for building Capital One financial services products using ReactJS, TypeScript, Java, Spring Boot, SQL, Amazon DynamoDB, Amazon Web Services (AWS) and other technologies.
 
 ### **Software Development Engineer - 3**
