@@ -1,6 +1,6 @@
 # Hello folks!👋
 
-My name is Vinod Desai. I am a Full Stack Web Developer currently working at Amadeus Labs Bangalore.
+My name is Vinod Desai. I am a FullStack Software Engineer.
 
 You can reach me on [Linkedin](https://in.linkedin.com/in/vinoddesai147).
 
