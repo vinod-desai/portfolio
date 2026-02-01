@@ -25,6 +25,11 @@ You can reach me on [Linkedin](https://in.linkedin.com/in/vinoddesai147).
 
 ## Experience
 
+### **Lead Software Engineer**
+### Capital One India Private Limited
+Role - Lead/Staff Software Engineer (Level - Manager).<br />
+Responsible for leading fullstack development team for building Capital One financial services products using ReactJS, TypeScript, Java, Spring Boot, SQL, Amazon DynamoDB, Amazon Web Services (AWS) and other technologies.
+
 ### **Software Development Engineer - 3**
 ### Amadeus Software Labs India Private Limited
 Role - Senior Developer, Scrum Master, Mentor for New Joiners, Graduate Engineer Trainees & Interns.<br />
@@ -47,7 +52,7 @@ Responsible for improving web pages performance and delivering optimized, high q
 ## Projects
 
 ### Payment Recovery for iHotelier Reservations Booking Engine Application:
-Created generic payment recovery processor scheduled job to confirm the reservations created from iHotelier Booking Engine for which payment has been deducted and reservations are in pending state.<br />
+Developed a payment recovery processor job to automatically confirm reservations where payment was deducted but the reservation remained in a pending state, recovering approx 20 reservations per month. Implemented feature for Ingenico-Ogone Payment Provider offering solutions for payments through Credit Cards, PayPal. Created future ready solution for remaining payment providers Adyen, Xpay, PayU etc.<br />
 Tech Stack: Java, Spring Boot, Webhooks, Oracle DB, Fiorano Messaging Queue, Angular, Jasmine, JUnit, Mockito<br />
 Implemented for Payment Provider: Ingenico-Ogone Credit Cards, Ingenico-Ogone Alternate Forms of Payments - Paypal<br />
 
