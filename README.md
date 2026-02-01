@@ -132,6 +132,12 @@ Microsoft Certified: Azure Data Fundamentals (DP-900)<br />
 Microsoft Certified: Azure AI Fundamentals (AI-900)<br />
 
 ## Honors & awards
+#### Team Award [April - 2025]
+Completed upgrade of FSDS (Financial Services Frontend Design System) UI library components for Dealer Navigator Platform.<br />
+
+#### Rock Star Award [January - 2025]
+Rock Star Award for contribution to Financial Services Frontend Design System.<br />
+
 #### The Rising Star [January - 2024]
 Awarded with a Rising Star for successfully completing the payment recovery feature for Ingenico-Ogone payment gateway. This is carried out for reservations made for hotels through the iHotelier booking engine app. The project is finished to a high standard and on time.<br />
 
