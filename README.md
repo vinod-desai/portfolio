@@ -51,10 +51,32 @@ Responsible for improving web pages performance and delivering optimized, high q
 
 ## Projects
 
+### Dealer Scout Application:
+Led end-to-end design and development of Dealer Scout application for Capital One Area Sales Managers (ASMs) to deliver the Iconic Pitch experience for Navigator Platform Products.<br />
+Improved pitch conversion rates, increased revenue per converted dealer, and boosted software product adoption by delivering personalized dealer product recommendations.<br />
+Led delivery of the MVP application within 3 months by eliminating the need for a backend-for-frontend layer and leveraging static dealer/insights data (refreshed every 45 days).<br />
+Accelerated time-to-market and enabled early user feedback, which informed subsequent product iterations.<br />
+Integrated with Upstream Dealer Info & Insights, Navigator Products and Pricing Services, ensuring accurate dealer intelligence and real-time product recommendations.<br />
+Tech Stack: JavaScript, TypeScript, CSS, ReactJS, Redux, Microfrontends, Java, Spring Boot, JUnit, Web APIs, Microservices, Amazon DynamoDB, Amazon Web Services (AWS)<br />
+
+### Dealer Navigator Platform:
+Led modernization of the Dealer Navigator platform with a refreshed UI design system, providing intuitive, responsive, and theme-capable experiences (dark & light modes).
+Enhanced user experience and consistency across dealer-facing applications, improving application adoption.<br />
+Tech Stack: JavaScript, TypeScript, CSS, ReactJS, Redux, Microfrontends<br />
+
+### Financial Services Design System:
+Designed and Implemented reusable UI components including Accordion, Breadcrumb, Container, and Tabs, strengthening the frontend design system library.
+Reduced development efforts for new features through reusable, standardized UI patterns.<br />
+Tech Stack: HTML, CSS, JavaScript, TypeScript, Storybook, Lit Web Components<br />
+
 ### Payment Recovery for iHotelier Reservations Booking Engine Application:
 Developed a payment recovery processor job to automatically confirm reservations where payment was deducted but the reservation remained in a pending state, recovering approx 20 reservations per month. Implemented feature for Ingenico-Ogone Payment Provider offering solutions for payments through Credit Cards, PayPal. Created future ready solution for remaining payment providers Adyen, Xpay, PayU etc.<br />
 Tech Stack: Java, Spring Boot, Webhooks, Oracle DB, Fiorano Messaging Queue, Angular, Jasmine, JUnit, Mockito<br />
 Implemented for Payment Provider: Ingenico-Ogone Credit Cards, Ingenico-Ogone Alternate Forms of Payments - Paypal<br />
+
+### iHotelier Property Management System Connect (PMSConnect):
+Built and maintained the features for interface between iHotelier CRS and external PMS, RMS, and CRS systems to synchronize reservations, availability, rates, and inventory in near real time, improving system accuracy. Migrated CRS message broker from FioranoMQ to Apache Kafka, improving resiliency and system uptime.<br />
+Tech Stack: Java, Spring Boot, Oracle DB, Apache Kafka, ReactJS, Jest, React Testing Library (RTL), JUnit, Mockito<br />
 
 ### Amadeus Property Management System (APMS):
 Created menu toggle, configuring financial picklist items, show room details on reservation screen features for improving user experience.<br />
@@ -63,39 +85,44 @@ Tech Stack: Dot Net Core, Azure SQL DB, Azure Function App, Azure Service Bus, A
 
 ### Central Guest Intelligence (CGI) Application:
 Created group module for CGI application for creating, updating groups for group reservation and integrated with Amadeus Property Management System (APMS).<br />
-Tech Stack: Java, Spring Boot, Angular, AG Grid, Ng-BootStrap, Jest, JUnit, Jenkins<br />
+Tech Stack: Java, Spring Boot, Angular, AG Grid, Ng-BootStrap, Jest, JUnit, Jenkins, REST API<br />
 
 ### Light Fixture Configurator Tool (LFCT)
 Created Configure Price Quote (CPQ) web application for light fixture product from scratch including design/prototype, requirement gathering from buisness.<br />
 Ability to generate multiple version of the project design, generate quote and export data to excel.<br />
 Integrated with Salesforce B2B Commerce cloud application for order processing and to provide consistant user experience for ordering configurable and non-configurable products from Crestron.<br />
 Automated Validation of Product Lexicons and Pricing using C# Selenium test framework.<br />
-Tech Stack: HTML, CSS, JavaScript, Angular - 14, Jasmine, Dot Net Core (Version - 3), MSTest, MS SQL Server, Azure<br />
+Tech Stack: HTML, CSS, JavaScript, ReactJS, Jest, Dot Net Core (Version - 3), MSTest, MS SQL Server, Azure, Azure DevOps, REST API<br />
 
 ### Consultant Calculator
 This application is designed to assist crestron consultants in calculating the cost of the crestron hardware and software products for commercial and residential projects along with products rack units, power, and cooling informations at one place.<br />
 Ability to generate multiple version of the project design, generate quote and export data to excel.<br />
 Integrated prequote project with QuotesWeb application for converting prequote project into and an opportunity.<br />
 Upgraded Angular version 8 to 14.<br />
-Tech Stack: HTML, CSS, JavaScript, Angular - 14, Jasmine, Dot Net Core (Version - 3), MSTest, MS SQL Server, Azure<br />
+Tech Stack: HTML, CSS, JavaScript, Angular - 14, Jasmine, Dot Net Core (Version - 3), MSTest, MS SQL Server, Azure, Azure DevOps, REST API<br />
 
 ### Crestron Design Tool for Shading Solutions (CDTS)
 Crestron Design Tool for Shades for configuring all types of shades product, add accessories to design, create revisions, generate quote and order the shading solutions for commercial and residential projects.<br />
 Implemented Order Processing by generating an XML file, this order XML file is consumed by SAP PI/PO module for further managing and processing the order by manufacturing unit.<br />
-Tech Stack: HTML, CSS, JavaScript, ASP.NET MVC 3, MSTest, MS SQL Server, Azure<br />
+Tech Stack: HTML, CSS, JavaScript, ASP.NET MVC 3, MSTest, MS SQL Server, Azure, REST API<br />
 
 ### QuotesWeb
 Configure, Price, Quote (CPQ) application for sales order team to create projects for customers with products details and generate quote.<br />
-Tech Stack: HTML, CSS, JavaScript, Angular, Jasmine, ASP.NET MVC 3, MSTest, MS SQL Server, Azure<br />
+Tech Stack: HTML, CSS, JavaScript, Angular, Jasmine, ASP.NET MVC 3, MSTest, MS SQL Server, Azure, Azure DevOps, REST API<br />
 
 ### Attachments Framework
 This configurable framework provides the ability to attach files in any transaction page of HCM application.<br />
 Framework Supports attaching files, links and entering rich texts.
-Tech Stack: HTML, CSS, JavaScript, Java, Oracle Fusion Middleware, Oracle DB, Oracle OCI<br />
+Tech Stack: HTML, CSS, JavaScript, Java, Oracle Fusion Middleware, Oracle DB, REST API, Oracle OCI<br />
 
 ### Fluid Timesheet
 Created Dashboard and responsive web pages for elapsed, punch and hourly time reporters for add/edit reported time, view exceptions and payable time details for employees, managers and time administrators.
-Tech Stack: HTML, CSS, JavaScript, Java, Oracle Fusion Middleware, Oracle DB, Oracle OCI<br />
+Tech Stack: HTML, CSS, JavaScript, Java, Oracle Fusion Middleware, Oracle DB, REST API, Oracle OCI<br />
+
+### Fluid Timesheet
+Developed SearchAll, a centralized internal search tool integrating Confluence, Jira, Oracle Bug Tracking tool, PRs and Code Repositories, and Google Search into one platform. Increased staff productivity by
+reducing context switching across multiple systems.
+Tech Stack: HTML, CSS, JavaScript, ReactJS<br />
 
 ## Certifications
 Certified SAFe Scrum Master<br />
