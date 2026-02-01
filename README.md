@@ -177,5 +177,5 @@ Percentage - 90.33 (PCMB 94%)
 
 Apart from being a web developer, I do solve problems on [LeetCode](https://leetcode.com/vinoddesai07app/), attend tech conferences organized by Devkode, JS India, etc.
 
-My hobbies include Cooking, Workout/Gym, Running, Watching Stand Up Comdey shows, Cricket and Movies.
+My hobbies include Cooking, Workout/Gym, Table Tennis, Running, Watching Stand Up Comdey shows, Cricket and Movies.
 
